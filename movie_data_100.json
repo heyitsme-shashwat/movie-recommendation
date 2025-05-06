@@ -1,0 +1,162 @@
+[
+  {
+      "title": "The Shawshank Redemption",
+      "rating": 9.3,
+      "poster": "https://images.saymedia-content.com/.image/t_share/MTk4NjA1NDYzMzkzMTUwNDAz/the-shawshank-redemption-1994-movie-review.jpg"
+  },
+  {
+      "title": "The Godfather",
+      "rating": 9.2,
+      "poster": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/7d2081c07a6afa338191e68c73e1959f7761b53cf9b691d59926aa0ef89874e5._RI_TTW_.jpg"
+  },
+  {
+      "title": "The Dark Knight",
+      "rating": 9.0,
+      "poster": "https://v3img.voot.com/v3Storage/assets/the_dark_knight_1920x1080-1685950193383.jpg"
+  },
+  {
+      "title": "Pulp Fiction",
+      "rating": 8.9,
+      "poster": "https://picfiles.alphacoders.com/371/371109.jpg"
+  },
+  {
+      "title": "The Lord of the Rings: The Return of the King",
+      "rating": 8.9,
+      "poster": "https://nettiruutu.fi/wp-content/uploads/2022/10/mahtisormukset-1.jpg"
+  },
+  {
+      "title": "Forrest Gump",
+      "rating": 8.8,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+      "title": "Inception",
+      "rating": 8.8,
+      "poster": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/movie/i0DBDLhuWiY4ue0we5ebwb0W6gxRJF.jpg"
+  },
+  {
+      "title": "The Matrix",
+      "rating": 8.7,
+      "poster": "https://pics.filmaffinity.com/the_matrix-155050517-large.jpg"
+  },
+  {
+      "title": "Fight Club",
+      "rating": 8.8,
+      "poster": "https://media.senscritique.com/media/000012256025/source_big/Fight_Club.jpg"
+  },
+  {
+      "title": "Goodfellas",
+      "rating": 8.7,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjllYzEzZDUtMmUxMi00MjEwLWFiYTQtNTg5OWY1MTlhYjI0XkEyXkFqcGdeQW1pYnJ5YW50._V1_.jpg"
+  },
+  {
+      "title": "The Empire Strikes Back",
+      "rating": 8.7,
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/04/21120853/k2J0GbxnuWJARxLHa2vAyO77qRX-683x1024.jpg"
+  },
+  {
+      "title": "The Godfather: Part II",
+      "rating": 9.0,
+      "poster": "https://johndadlez.com/pix/godfather2-cover.jpg"
+  },
+  {
+      "title": "Schindler's List",
+      "rating": 9.0,
+      "poster": "https://www.sperling.it/content/uploads/2018/01/978889342033HIG.JPG"
+  },
+  {
+      "title": "12 Angry Men",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/original/rExJi4Byl4zwwjvZyOKO1TbGkPj.jpg"
+  },
+  {
+      "title": "The Dark Knight Rises",
+      "rating": 8.4,
+      "poster": "https://images5.fanpop.com/image/photos/31300000/The-Dark-Knight-Rises-batman-31367427-1600-2366.jpg"
+  },
+  {
+      "title": "Avengers: Endgame",
+      "rating": 8.4,
+      "poster": "https://eclipsemagazine.com/wp-content/uploads/2019/07/Avengers-Endgame.jpg"
+  },
+  {
+      "title": "Interstellar",
+      "rating": 8.6,
+      "poster": "https://www.mauvais-genres.com/19056-thickbox_default/interstellar-french-movie-poster-15x21-2014-christopher-nolan-matthew-mcconaughey.jpg"
+  },
+  {
+      "title": "The Silence of the Lambs",
+      "rating": 8.6,
+      "poster": "https://cdn.shopify.com/s/files/1/1416/8662/products/silence_of_the_lambs_1990_styleA_teaser_original_film_art_f_2000x.jpg?v=1555770913"
+  },
+  {
+      "title": "The Prestige",
+      "rating": 8.5,
+      "poster": "https://posterspy.com/wp-content/uploads/2018/08/the_prestige_alternative_movie_poster_01.jpg"
+  },
+  {
+      "title": "The Lion King",
+      "rating": 8.5,
+      "poster": "https://www.rotoscopers.com/wp-content/uploads/2014/02/Lion-King-Poster.jpg"
+  },
+  {
+      "title": "Spider-Man: No Way Home",
+      "rating": 8.3,
+      "poster": "https://www.sonypictures.my/sites/malaysia/files/2022-03/SpidermanNoWayHome-keyart.jpg"
+  },
+  {
+      "title": "Star Wars",
+      "rating": 8.6,
+      "poster": "https://www.sonypictures.my/sites/malaysia/files/2022-03/SpidermanNoWayHome-keyart.jpg"
+  },
+  {
+      "title": "A Clockwork Orange",
+      "rating": 8.3,
+      "poster": "https://cdn.britannica.com/61/197661-050-A3F3C598/Movie-poster-A-Clockwork-Orange-Stanley-Kubrick.jpg"
+  },
+  {
+      "title": "Gladiator",
+      "rating": 8.5,
+      "poster": "https://www.wacem2024.org/wp-content/uploads/2019/07/gladiator.jpeg"
+  },
+  {
+      "title": "The Departed",
+      "rating": 8.5,
+      "poster": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/9ecf962875d40b7651b8e33a9d26687e78524db862034b8594980f9f14e30fe9._RI_TTW_.jpg"
+  },
+  {
+      "title": "Whiplash",
+      "rating": 8.5,
+      "poster": "https://filmint.nu/wp-content/uploads/2014/12/Whiplash-4.jpg"
+  },
+  {
+      "title": "The Wolf of Wall Street",
+      "rating": 8.2,
+      "poster": "https://www.danielyeow.com/wp-content/uploads/TheWolfofWallStreet-poster.jpg"
+  },
+  {
+      "title": "The Shining",
+      "rating": 8.4,
+      "poster": "https://i.pinimg.com/originals/ae/68/4e/ae684e890e17f166edc979600cdb00c9.png"
+  },
+  {
+      "title": "The Grand Budapest Hotel",
+      "rating": 8.1,
+      "poster": "https://image.tmdb.org/t/p/w1280/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg"
+  },
+  {
+      "title": "The Godfather Part III",
+      "rating": 7.6,
+      "poster": "https://pics.filmaffinity.com/the_godfather_part_iii-171971720-large.jpg"
+  },
+  {
+      "title": "Memento",
+      "rating": 8.4,
+      "poster": "https://3.bp.blogspot.com/-2Ynjlj3AxGA/T5SFwgU4dAI/AAAAAAAANL8/HZtTHDFZLSU/s0/ix98ht0SHELjmH9xCgpJ1ssIKjo.jpg"
+  },
+  {
+      "title": "The Truman Show",
+      "rating": 8.1,
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15115111/vuza0WqY239yBXOadKlGwJsZJFE.jpg"
+  }
+]
